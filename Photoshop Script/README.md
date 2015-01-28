@@ -3,9 +3,9 @@
 WARNING!!! In the rare case that there are name collisions, this script will overwrite (delete perminently) files in the same folder in which the selected iTunesArtwork file is located. Therefore, to be safe, before running the script, it's best to make sure the selected iTuensArtwork file is the only file in its containing folder.
 
 Copyright (c) 2010 Matt Di Pasquale 
-Added tweaks Copyright (c) 2012 by Josh Jones http://www.appsbynight.com
-iOS 7 & 8 Compatibility Copyright (c) 2013-2014 by Arthur Sabintsev (http://www.sabintsev.com)
-Android Phone Compatibility Copyright (c) 2014-2015 by Cartor Chen (https://github.com/cartor)
+Added tweaks Copyright (c) 2012 by [Josh Jones](http://www.appsbynight.com)
+iOS 7 & 8 Compatibility Copyright (c) 2013-2014 by [Arthur Sabintsev](http://www.sabintsev.com)
+Android Phone Compatibility Copyright (c) 2014-2015 by [Cartor Chen](https://github.com/cartor)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
